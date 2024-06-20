@@ -1,0 +1,1 @@
+A C Program used to generate a 2D array with a size of whatever integer number that is typed by the user. Then there will be an option to select an option on whether to print, randomize, reverse, or sort the 2D.
